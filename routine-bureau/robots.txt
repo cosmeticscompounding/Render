@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 # The Routine Bureau is published on Cloudflare Pages.
+# Index public pages and educational guides.
