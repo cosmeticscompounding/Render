@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://the-routine-bureau.pages.dev/sitemap.xml
+
 # The Routine Bureau is published on Cloudflare Pages.
 # Index public pages and educational guides.
